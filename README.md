@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msugenius&label=Profile%20views&color=0e75b6&style=flat" alt="msugenius" /> </p>
 
-- 📄 About me **Everything about the job is on corporate gitlab, so not much of interest here. Just stuff I write for fun =)**
+**Everything about the job is on corporate gitlab, so not much of interest here. Just stuff I write for fun =) Sometimes it can be empty at all, because sometimes stuff loses relevance or needs improvement.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
